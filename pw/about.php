@@ -11,26 +11,61 @@
 
 <body>
     <?php include 'navbar.php'; ?>
-    <div class="container p-5 text-center">
-        <div class="p-5">
-            <strong>
-                <h1>About</h1>
-            </strong>
-        </div>
+    <div class="container p-5 ">
+        <div class="shadow-lg p-5 mb-5 bg-body rounded">
+            <div class="pb-5 text-center">
+                <strong>
+                    <h1>About</h1>
+                </strong>
+            </div>
 
-        <div class="row">
-            <div class="col-sm bg-dark p-5">
-                <img src="shanto.jpg" class="img-fluid img-thumbnail rounded mx-auto d-block">
+            <div class="row">
+                <div class="col-sm bg-dark p-5">
+                    <img src="shanto.jpg" class="img-fluid rounded mx-auto d-block">
+                </div>
+                <div class="col-sm">
+                    <!-- <ul class="list-group">
+                        <li class="list-group-item">Name</li>
+                        <li class="list-group-item">Age</li>
+                        <li class="list-group-item">Nationality</li>
+                        <li class="list-group-item">Language</li>
+                        <li class="list-group-item">Address</li>
+                    </ul> -->
+                    <div>
+                        <div>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                                Modi saepe, sed impedit expedita ipsam labore vero nostrum quos reiciendis.
+                                Minus officiis optio vitae aspernatur iste recusandae
+                                placeat corrupti dolorem voluptatum.</p>
+                        </div>
+                        <table class="table table-bordered table-light table-hover">
+                            <tbody>
+                                <tr>
+                                    <th>Name</th>
+                                    <td>Md. Moniruzzaman Shanto</td>
+                                </tr>
+                                <tr>
+                                    <th>Age</th>
+                                    <td>22</td>
+                                </tr>
+                                <tr>
+                                    <th>Nationality</th>
+                                    <td>Bangladeshi</td>
+                                </tr>
+                                <tr>
+                                    <th>Language</th>
+                                    <td>Bangla, English</td>
+                                </tr>
+                                <tr>
+                                    <th>Address</th>
+                                    <td>Dhaka, Bangladesh</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
-            <div class="col-sm bg-info p-5">
-                <ul class="list-group">
-                    <li class="list-group-item">An item</li>
-                    <li class="list-group-item">A second item</li>
-                    <li class="list-group-item">A third item</li>
-                    <li class="list-group-item">A fourth item</li>
-                    <li class="list-group-item">And a fifth one</li>
-                </ul>
-            </div>
+
         </div>
 
     </div>

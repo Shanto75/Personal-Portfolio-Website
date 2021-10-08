@@ -13,43 +13,46 @@
     <?php include 'navbar.php'; ?>
 
     <div class="container p-5 text-center">
-        <div class="p-5">
-            <strong>
-                <h1>Academic Qualifications</h1>
-            </strong>
+        
+        <div class="shadow-lg p-5 mb-5 bg-body rounded">
+            <div class="pb-5">
+                <strong>
+                    <h1>Academic Qualifications</h1>
+                </strong>
+            </div>
+
+            <table class="border border-5 border-primary rounded-3 table table-bordered table-dark table-hover">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>Program</th>
+                        <th>Institution</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>2018-2021</td>
+                        <td>B.Sc. in Computer Science and Engineering</td>
+                        <td>East West University</td>
+                        <td>CGPA 3.1 on a scale of 4</td>
+                    </tr>
+                    <tr>
+                        <td>2015-2017</td>
+                        <td>HSC (Higher Secondary Certificate)</td>
+                        <td>Milerstone Schoole and College</td>
+                        <td>GPA 4.83 on a scale of 5</td>
+                    </tr>
+                    <tr>
+                        <td>2013-2015</td>
+                        <td>SSC (Secondary School Certificate)</td>
+                        <td>Milerstone Schoole and College</td>
+                        <td>GPA 5 on a scale of 5</td>
+                    </tr>
+
+                </tbody>
+            </table>
         </div>
-
-        <table class="table table-bordered table-dark table-hover">
-            <thead>
-                <tr>
-                    <th>Year</th>
-                    <th>Program</th>
-                    <th>Institution</th>
-                    <th>Result</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>2018-2021</td>
-                    <td>B.Sc. in Computer Science and Engineering</td>
-                    <td>East West University</td>
-                    <td>CGPA 3.1 on a scale of 4</td>
-                </tr>
-                <tr>
-                    <td>2015-2017</td>
-                    <td>HSC (Higher Secondary Certificate)</td>
-                    <td>Milerstone Schoole and College</td>
-                    <td>GPA 4.83 on a scale of 5</td>
-                </tr>
-                <tr>
-                    <td>2013-2015</td>
-                    <td>SSC (Secondary School Certificate)</td>
-                    <td>Milerstone Schoole and College</td>
-                    <td>GPA 5 on a scale of 5</td>
-                </tr>
-
-            </tbody>
-        </table>
 
     </div>
 
