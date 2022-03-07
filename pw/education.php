@@ -41,13 +41,13 @@
                         <td>2015-2017</td>
                         <td>HSC (Higher Secondary Certificate)</td>
                         <td>Milerstone Schoole and College</td>
-                        <td>GPA 4.83 on a scale of 5</td>
+                        <td>GPA * on a scale of 5</td>
                     </tr>
                     <tr>
                         <td>2013-2015</td>
                         <td>SSC (Secondary School Certificate)</td>
                         <td>Milerstone Schoole and College</td>
-                        <td>GPA 5 on a scale of 5</td>
+                        <td>GPA * on a scale of 5</td>
                     </tr>
 
                 </tbody>
