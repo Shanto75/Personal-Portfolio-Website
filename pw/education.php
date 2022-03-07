@@ -35,7 +35,7 @@
                         <td>2018-2021</td>
                         <td>B.Sc. in Computer Science and Engineering</td>
                         <td>East West University</td>
-                        <td>CGPA 3.1 on a scale of 4</td>
+                        <td>CGPA * on a scale of 4</td>
                     </tr>
                     <tr>
                         <td>2015-2017</td>
